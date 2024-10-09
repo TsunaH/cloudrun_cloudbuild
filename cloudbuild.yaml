@@ -8,5 +8,6 @@ steps:
   - --region=asia-northeast1
   - --trigger-http
   - --gen2
+  - --runtime=python312
 options:
   logging: CLOUD_LOGGING_ONLY
