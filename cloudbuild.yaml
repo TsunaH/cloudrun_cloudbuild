@@ -5,7 +5,7 @@ steps:
   - functions
   - deploy
   - $_SERVICE_NAME
-  - --entry-point=$_ENTRY_POINT
+  - --entry-point=main
   - --region=asia-northeast1
   - --trigger-http
   - --gen2
