@@ -9,5 +9,6 @@ steps:
   - --trigger-http
   - --gen2
   - --runtime=python312
+  - --source=.
 options:
   logging: CLOUD_LOGGING_ONLY
