@@ -5,3 +5,5 @@ steps:
   - run
   - deploy
   - $_SERVICE_NAME
+options:
+  logging: CLOUD_LOGGING_ONLY
