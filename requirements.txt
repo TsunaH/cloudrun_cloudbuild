@@ -1,1 +1,1 @@
-functions_framework
+functions-framework==3.*
