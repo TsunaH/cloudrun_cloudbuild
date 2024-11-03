@@ -12,6 +12,6 @@ steps:
   - --runtime=python312
   - --source=.
   - --vpc-connector=test-connect
-  - --vpc-egress=all-traffic 
+  - --vpc-egress=all-traffic
 options:
   logging: CLOUD_LOGGING_ONLY
